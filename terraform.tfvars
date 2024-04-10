@@ -1,0 +1,6 @@
+name_function  = "estebanfuncionVM"
+location       = "East US"
+vm_name        = "VMdeEsteban"
+security_group = "GrupoDeSeguridad1"
+user           = "esteban"
+password       = "@password1"
